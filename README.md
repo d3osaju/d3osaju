@@ -1,4 +1,4 @@
-# Hi there, I'm deo 👋
+# Hi there, I'm deo 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deoxicit)
 
