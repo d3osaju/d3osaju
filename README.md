@@ -1,6 +1,7 @@
 
 <h1 align="center">Hey there, I'm **Deo Saju** 👋</h1>
 <p align="center">Full‑stack engineer • Web3 & AI builder • Hackathon addict • OSS advocate</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=deoxicit)
 
 <p align="center">
