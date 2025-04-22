@@ -2,7 +2,9 @@
 <h1 align="center">Hey there, I'm **Deo Saju** 👋</h1>
 <p align="center">Full‑stack engineer • Web3 & AI builder • Hackathon addict • OSS advocate</p>
 
+<p align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=deoxicit)
+</p>
 
 <p align="center">
   <a href="https://twitter.com/deoxicit"><img src="https://img.shields.io/twitter/follow/deoxicit?style=social" alt="Twitter Follow"></a>
