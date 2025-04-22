@@ -25,7 +25,7 @@
 
 ### 🛠️ Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,solidity,movejs,postgres,docker,aws,ipfs,figma"/>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,solidity,postgres,docker,aws,ipfs,figma"/>
 </p>
 
 ### 🚀 Featured Projects
