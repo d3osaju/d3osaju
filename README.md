@@ -3,7 +3,9 @@
 <p align="center">Full‑stack engineer • Web3 & AI builder • Hackathon addict • OSS advocate</p>
 
 <p align="center">
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=deoxicit)
+
 </p>
 
 <p align="center">
