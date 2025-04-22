@@ -37,7 +37,6 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deoxicit&show_icons=true&theme=react"/>
-  <img src="https://streak-stats.demolab.com/?user=deoxicit&theme=react"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deoxicit&layout=compact&theme=react"/>
 </p>
 
