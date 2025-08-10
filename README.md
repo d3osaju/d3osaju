@@ -59,8 +59,8 @@ Enterprise tools for QA and HRBP teams with role-based authentication
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d30saju&show_icons=true&theme=react" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d30saju&layout=compact&theme=react" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=d3osaju&show_icons=true&theme=react" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3osaju&layout=compact&theme=react" alt="Top Languages"/>
 </p>
 
 ## 🏆 Professional Experience
