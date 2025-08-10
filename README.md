@@ -2,11 +2,11 @@
 <p align="center">.NET Developer • Enterprise Applications • Cloud Solutions • Microservices Architect</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deoxicit" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=d30saju" alt="Profile Views">
 </p>
 
 <p align="center">
-  <a href="https://x.com/deoxicit"><img src="https://img.shields.io/twitter/follow/deoxicit?style=social" alt="Twitter Follow"></a>
+  <a href="https://x.com/NunFungibleDev"><img src="https://img.shields.io/twitter/follow/deoxicit?style=social" alt="Twitter Follow"></a>
   <a href="https://www.linkedin.com/in/deosaju/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:deosaju2260@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-red?logo=gmail" alt="Email"></a>
 </p>
