@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm **Deo Saju** 👋</h1>
+<h1 align="center">Hey there, I'm Deo Saju 👋</h1>
 <p align="center">.NET Developer • Enterprise Applications • Cloud Solutions • Microservices Architect</p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 💼 Software Engineer at **Fingent** with 2+ years of experience in enterprise .NET applications
+- 💼 Software Engineer at **IBM** with 3+ years of experience in enterprise .NET applications
 - 🔭 Building scalable microservices and REST APIs using **ASP.NET Core 8** serving 1K+ users
 - ☁️ Experienced with **Azure cloud services** including Functions, Service Bus, and Application Insights
 - 🏗️ Expert in **Entity Framework Core**, **LINQ**, and performance optimization techniques
