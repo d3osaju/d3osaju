@@ -110,5 +110,5 @@ Jyothi Engineering College, Thrissur | GPA: 7.98/10
 </p>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/deoxicit">Deo Saju</a>
+  Made with ❤️ by <a href="https://github.com/d3osaju">Deo Saju</a>
 </p>
